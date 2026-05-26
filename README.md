@@ -6,7 +6,7 @@ Public technical overview of a teleoperated smart-car prototype controlled throu
   <img src="docs/assets/Fig%20-%20Car%20and%20Controller.jpeg" width="760" alt="Teleoperated smart car with 5G module and Xbox Series X controller" />
 </p>
 
-The full source code is private due to intellectual property considerations. This repository documents the project's functionality, architecture, technologies, screenshots, and implementation approach without exposing private source code, internal files, or full Git history.
+> The full source code is private due to intellectual property considerations. This repository documents the project's functionality, architecture, technologies, screenshots, and implementation approach without exposing private source code, internal files, or full Git history.
 
 ---
 
