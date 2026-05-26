@@ -1,4 +1,4 @@
-# 5G Teleoperated Driving System — Public Overview
+# 5G Teleoperated Driving System - Public Overview
 
 Public technical overview of a teleoperated smart-car prototype controlled through a 5G network using a Raspberry Pi 4, SIM8200EA-M2 5G module, Xbox Series X controller, live camera streaming, Python socket communication, and real-time motor/servo control.
 
@@ -14,9 +14,9 @@ The full source code is private due to intellectual property considerations. Thi
 
 The demo video shows the smart car being controlled through the Xbox Series X controller while the laptop receives a live camera stream from the vehicle.
 
-[Watch the demo video](docs/assets/A%20teleoperated%20driving%20system%20via%205G%20network%281%29.mp4)
 
-> Note: GitHub may display the video as a downloadable media file instead of embedding it directly in the README.
+https://github.com/user-attachments/assets/c542ccfb-f1cf-4de1-a722-fb0c37ec5ae6
+
 
 ---
 
